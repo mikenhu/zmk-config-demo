@@ -30,7 +30,7 @@
 		};
 		combo_esc {
 			timeout-ms = <50>;
-			key-posinions = <2 3 4>;
+			key-positions = <2 3 4>;
 			bindings = <&kp ESC>;
 		};
 	};
